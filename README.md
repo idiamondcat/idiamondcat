@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Alina and I'm a Front-End Developer
 
-<!--
-**idiamondcat/idiamondcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 💾 [My CV]()
 - 🌱 I’m currently mastering this career and improving my skills
 - 📫 How to reach me:
