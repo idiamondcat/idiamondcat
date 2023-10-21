@@ -3,7 +3,7 @@
 - 💾 [My CV]()
 - 🌱 I’m currently mastering this career and improving my skills
 - 📫 How to reach me:
-	  - Telegram: https://t.me/iDiamondCat
+    - Telegram: https://t.me/iDiamondCat
     - [Linkedin](https://www.linkedin.com/in/alina-poletova/)
     - Email: shock_harrison@yahoo.com
 
