@@ -29,4 +29,6 @@
 - [CSS Barista](https://css-barista.netlify.app/)
 - [Virtual Keyboard](https://idiamondcat.github.io/virtual-keyboard/virtual-keyboard/dist/index.html)
 
+## My certificates ##
 
+- [JAVASCRIPT/FRONT-END 2023Q1](https://app.rs.school/certificate/98wtyn7x)
