@@ -3,11 +3,12 @@
 - 💾 [My CV]()
 - 🌱 I’m currently mastering this career and improving my skills
 - 📫 How to reach me:
-* Telegram: https://t.me/iDiamondCat
-* [Linkedin](https://www.linkedin.com/in/alina-poletova/)
-* Email: shock_harrison@yahoo.com
+  - Telegram: https://t.me/iDiamondCat
+  - [Linkedin](https://www.linkedin.com/in/alina-poletova/)
+  - Email: shock_harrison@yahoo.com
 
-##My Stack
+## My Stack ##
+
 ![Изображение](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Изображение](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Изображение](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -22,7 +23,8 @@
 ![Изображение](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Изображение](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-##My Projects
+## My Projects ##
+
 - [Shelter](https://idiamondcat.github.io/shelter/shelter/main.html)
 - [CSS Barista](https://css-barista.netlify.app/)
 - [Virtual Keyboard](https://idiamondcat.github.io/virtual-keyboard/virtual-keyboard/dist/index.html)
