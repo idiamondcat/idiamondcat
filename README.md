@@ -28,6 +28,7 @@
 - [Shelter](https://idiamondcat.github.io/shelter/shelter/main.html)
 - [CSS Barista](https://css-barista.netlify.app/)
 - [Virtual Keyboard](https://idiamondcat.github.io/virtual-keyboard/virtual-keyboard/dist/index.html)
+- [Minesweeper](https://rss-minesweeper.netlify.app/)
 - [MealDrop (Angular, in progress)](https://idiamondcat.github.io/mealdrop/)
 - [YouTube (Angular)](https://idiamondcat.github.io/youtube/)
 
