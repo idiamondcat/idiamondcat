@@ -5,6 +5,7 @@
 - 📫 How to reach me:
     - Telegram: https://t.me/iDiamondCat
     - [Linkedin](https://www.linkedin.com/in/alina-poletova/)
+    - [Codewars](https://www.codewars.com/users/idiamondcat)
     - Email: shock_harrison@yahoo.com
 
 ## My Stack ##
