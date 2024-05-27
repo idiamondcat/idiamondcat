@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Alina and I'm a Front-End Developer
 
-- 💾 [My CV]()
+- 💾 [My CV](https://github.com/idiamondcat/resume/blob/main/Alina's%20Resume.pdf)
 - 🌱 I’m currently mastering this career and improving my skills
 - 📫 How to reach me:
     - Telegram: https://t.me/iDiamondCat
